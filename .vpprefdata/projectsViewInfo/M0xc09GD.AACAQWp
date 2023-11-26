@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectsViewInfo>
-	<DiagramOpenInfos activeDiagramId="QYrO09GD.AACAQ52">
-		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="m01c09GD.AACAQkl" maximized="true" offsetX="0" offsetY="0"/>
+	<DiagramOpenInfos activeDiagramId="LdKPK9GD.AACARS0">
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="J.Vy09GD.AACAQop" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="6lzK09GD.AACAQqr" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="n4ga09GD.AACAQuK" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="31q609GD.AACAQyT" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="D4OG09GD.AACAQ1v" maximized="true" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,1270.0,563.0" diagramId="QYrO09GD.AACAQ52" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="QYrO09GD.AACAQ52" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="8xbEK9GD.AACAQeL" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="I2.kK9GD.AACAQfN" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="FmEyK9GD.AACAQtC" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="UyMmK9GD.AACAQym" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="iW9WK9GD.AACAQz3" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="4rFpK9GD.AACAQ9I" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="BF1FK9GD.AACARDX" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="3b1jK9GD.AACARGz" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,1270.0,563.0" diagramId="LdKPK9GD.AACARS0" maximized="true" offsetX="36" offsetY="0"/>
 	</DiagramOpenInfos>
 	<DiagramLastActivated>
-		<Diagram id="QYrO09GD.AACAQ52" time="1699925554371"/>
+		<Diagram id="LdKPK9GD.AACARS0" time="1700084665471"/>
+		<Diagram id="BF1FK9GD.AACARDX" time="1700084653049"/>
+		<Diagram id="3b1jK9GD.AACARGz" time="1700081876613"/>
+		<Diagram id="QYrO09GD.AACAQ52" time="1700080401077"/>
+		<Diagram id="4rFpK9GD.AACAQ9I" time="1700079851839"/>
+		<Diagram id="UyMmK9GD.AACAQym" time="1700079467020"/>
+		<Diagram id="iW9WK9GD.AACAQz3" time="1700079203677"/>
+		<Diagram id="D4OG09GD.AACAQ1v" time="1700076149328"/>
+		<Diagram id="I2.kK9GD.AACAQfN" time="1700076143585"/>
+		<Diagram id="FmEyK9GD.AACAQtC" time="1700076136803"/>
+		<Diagram id="8xbEK9GD.AACAQeL" time="1700074397205"/>
 		<Diagram id="J.Vy09GD.AACAQop" time="1699925531171"/>
 		<Diagram id="m01c09GD.AACAQkl" time="1699925396380"/>
-		<Diagram id="D4OG09GD.AACAQ1v" time="1699924263601"/>
 		<Diagram id="31q609GD.AACAQyT" time="1699923975097"/>
 		<Diagram id="n4ga09GD.AACAQuK" time="1699923628797"/>
 		<Diagram id="6lzK09GD.AACAQqr" time="1699923311503"/>
+		<Diagram id="Use Case Statement" time="0"/>
+		<Diagram id="Use Case" time="0"/>
+		<Diagram id="User Story" time="0"/>
+		<Diagram id="Sprint" time="0"/>
 	</DiagramLastActivated>
 </ProjectsViewInfo>
