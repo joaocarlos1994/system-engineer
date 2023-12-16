@@ -398,7 +398,6 @@
 	</Type>
 	<Type id="State2">
 		<Tab id="Deferrable Triggers"/>
-		<Tab id="Regions"/>
 	</Type>
 	<Type id="StateMachine">
 		<Tab id="Owned Behaviors"/>
